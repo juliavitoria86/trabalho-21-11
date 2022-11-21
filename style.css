@@ -1,0 +1,26 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+.card{
+    background-color: white;
+    width: 17vw;
+    height: 45vh;
+    border-radius: 20px;
+    position: relative;
+    top: 20vh;
+}
+
+.foto {
+    width: 13vw;
+    height: 20vh;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+p{
+   color: lightgrey;
+   font-size: small;
+
+}
